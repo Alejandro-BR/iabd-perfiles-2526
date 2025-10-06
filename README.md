@@ -13,7 +13,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Int
 ## Alumnos
 
 
-* [Apellidos, Nombre]()
+* [Xia Ye, Ruyi](https://github.com/rxy94)
 
 
 :star: Si te gusta este repo, dale una estrellita :wink:
