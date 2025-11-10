@@ -1,6 +1,6 @@
 # Enlaces a los perfiles de GitHub de alumnos y profesores. Curso 2025/2026.
 
-Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Integrado de Formación Profesional Alan Turing del curso 2025/2026.
+Enlaces a los perfiles de GitHub de alumnos y profesores del Máster FP en Inteligencia Artificial y Big Data del Centro Público Integrado de Formación Profesional Alan Turing del curso 2025/2026.
 
 ## Profesores
 
