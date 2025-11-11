@@ -12,7 +12,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Máster FP en Intel
 
 ## Alumnos
 
-
+* [Vacas López, Cristina](https://github.com/flashtime-dev)
 * [Xia Ye, Ruyi](https://github.com/rxy94)
 
 
