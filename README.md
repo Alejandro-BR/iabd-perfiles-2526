@@ -12,6 +12,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Máster FP en Intel
 
 ## Alumnos
 * [Cerezo López, Carlos](https://github.com/carloscl2005)
+* [Sihammou Anahnah, Ismael](https://github.com/shism04)
 * [Vacas López, Cristina](https://github.com/flashtime-dev)
 * [Xia Ye, Ruyi](https://github.com/rxy94)
 
