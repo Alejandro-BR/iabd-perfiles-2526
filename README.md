@@ -11,6 +11,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Máster FP en Intel
 
 
 ## Alumnos
+* [Barrionuevo Rosado, Alejandro](https://github.com/Alejandro-BR)
 * [Cerezo López, Carlos](https://github.com/carloscl2005)
 * [Chacón Macías, Juan Francisco](https://github.com/JuanFranCM)
 * [Sihammou Anahnah, Ismael](https://github.com/shism04)
