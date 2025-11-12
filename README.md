@@ -14,6 +14,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Máster FP en Intel
 * [Barrionuevo Rosado, Alejandro](https://github.com/Alejandro-BR)
 * [Cerezo López, Carlos](https://github.com/carloscl2005)
 * [Chacón Macías, Juan Francisco](https://github.com/JuanFranCM)
+* [Herrera Sánchez, Jesús](https://github.com/Jesushs4)
 * [Robles Ruiz, Elías](https://github.com/eliasrrobles)
 * [Sihammou Anahnah, Ismael](https://github.com/shism04)
 * [Vacas López, Cristina](https://github.com/flashtime-dev)
